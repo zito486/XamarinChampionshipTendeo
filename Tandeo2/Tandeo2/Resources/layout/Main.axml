@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="Consultar Tandas y pagos pendientes"
+        android:layout_width="match_parent"
+        android:layout_height="134.5dp"
+        android:id="@+id/btnConsultar" />
+    <Button
+        android:text="Registrar nueva tanda o deuda"
+        android:layout_width="match_parent"
+        android:layout_height="135.5dp"
+        android:id="@+id/btnNuevo" />
+</LinearLayout>
